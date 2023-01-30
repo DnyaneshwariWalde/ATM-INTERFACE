@@ -14,4 +14,4 @@ are unlocked. The project allows to perform following operations:
 
 5.Quit
 
-The project is developed using java and ide used is eclipse ide.
+The project is developed using java and IDE used is eclipse .

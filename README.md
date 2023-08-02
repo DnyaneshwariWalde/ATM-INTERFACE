@@ -21,7 +21,7 @@ To run the ATM System, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/DnyaneshwariWalde/ATM-INTERFACE.git
+git clone https://github.com/DnyaneshwariWalde/ATM-System.git
 
 ```
 
